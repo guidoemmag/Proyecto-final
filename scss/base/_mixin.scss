@@ -1,0 +1,8 @@
+@mixin flex($footer, $justify,){
+    display:$footer;
+    justify-content: $justify;
+}
+
+@mixin font($font){
+    font-family: $font;
+}

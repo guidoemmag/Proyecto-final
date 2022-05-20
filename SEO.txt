@@ -1,0 +1,4 @@
+19/05/2022
+Trabajo SEO
+
+Agregue descripcion, keywords, open graph, cambie el titulo, deje solo un h1.
